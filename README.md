@@ -10,4 +10,4 @@ History of Internet - https://kcode17.github.io/WebSystem_MiniProject_2/
 - ### Harish Naricchetty
 
 ## Changelog
-- [Project changelog](/Changelog.md)
+- [Project changelog](/changelog.md)
