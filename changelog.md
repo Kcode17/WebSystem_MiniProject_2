@@ -20,6 +20,7 @@
 - Feature Team Page
 - Added changelog.md
 - Hosted the site using github pages
+- Added Link to LinkedIn Profile on Team Page
 
 ##### Changed
 - Added content to dot com page
